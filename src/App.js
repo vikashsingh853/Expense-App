@@ -45,7 +45,7 @@ const App = () => {
     <div>
       <NewExpense onAddExpense={addExpenseHandler} />
       <Expenses items={expenses} />
-        <h3>Developed by VKS</h3>
+        <h3 style={{text-align : "center"}}>Developed by VKS</h3>
     </div>
   );
 };
