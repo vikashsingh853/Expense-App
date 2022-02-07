@@ -27,6 +27,7 @@ const Expenses = (props) => {
         <ExpensesChart expenses={filteredExpenses} />
         <ExpensesList items={filteredExpenses} />
       </Card>
+     <h3> VKS </h3>
     </div>
   );
 };
