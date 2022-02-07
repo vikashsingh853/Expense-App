@@ -8,7 +8,7 @@ const DUMMY_EXPENSES = [
     id: 'e1',
     title: 'Book',
     amount: 944,
-    date: new Date(2021, 7, 14),
+    date: new Date(2022, 1, 14),
   },
   { id: 'e2', title: 'New TV', amount: 11799, date: new Date(2021, 2, 12) },
   {
